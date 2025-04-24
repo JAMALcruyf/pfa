@@ -169,7 +169,7 @@ class Paiement(models.Model):
 ### 1. **Cloner le dépôt :**
 
 ```bash
-git clone https://github.com/votre-projet/coworking-management.git
+git clone https://github.com/votre-projet/pfa
 cd coworking-management
 ```
 
