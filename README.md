@@ -26,6 +26,10 @@ Les administrateurs auront des privilèges supplémentaires, tels que :
 
 Le diagramme de classes décrit la structure de la base de données et les relations entre les différentes entités du système. Ci-dessous le code source à intégrer dans **StarUML** pour générer le diagramme de classes.
 
+Voici le diagramme UML généré pour la structure des classes du projet :
+
+![Diagramme UML de Classes](https://uml.planttext.com/plantuml/png/bLDBJiCm4Dr7oXsiB45PT8iGgbGEW42iApUULYFyasS2gW29Et09kkS6kGadmGvfcwIjHBtol7bFVdvZJubbuDheFCipHjOWRb6kWZG6X09HQKa497u-FiN3chZv-iDdxiM59xIhf6j9uf5H8qc6EeZNF1DnNQ8ILm8jTwLr9jR4eHMsa0_DvWWCHg8UWyRnNC7S9qlZNcY-THzytnkRQGJBEqzn7y07f1FqUo1oTQZWZ5lmsXyuggIN5NAp6OWLK1NGCpex5YWaxoAuS4uF7JKRWl0iMz49Koe67yDPr1pXL30QwFUMQ0yxSVhSAexaS2SHJ3-uqOd6MPOsYPVQoO4FlvN-yy3-qxb-AyjkP7dMZQwO5C95kBWe1c7asI2Qr2xBcvQ-c-AOCzbpjZTC5gPWLVm6lm00)
+
 ### 📄 **Code Source UML pour StarUML**
 
 Voici le code source pour générer le diagramme de classes :
