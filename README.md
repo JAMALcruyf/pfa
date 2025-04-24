@@ -101,6 +101,10 @@ Réservation "1" --> "1" Paiement
 
 Le diagramme de cas d’utilisation présente les interactions principales entre les utilisateurs (acteurs) et le système. Voici une représentation textuelle détaillée de ces interactions.
 
+Voici un diagramme de cas d'utilisation pour le projet :
+
+![Diagramme de Cas d'Utilisation](https://uml.planttext.com/plantuml/png/XP5TIiD04CVV0xd3q1VreVGA3H5z4eIYxqDs3AFx4MPdBKK4x-0bx3bo4q_Y9erGRT1zceNV_3zsrr5HD3bR5cMXh9RWah4LT8x04DGOmPpTALkEg1myVBwzmsONjV-OYB0DyiI-7HImqI1GMoQltxVAEFOSLL0foK09DOg-pLwBMQK5l9G5v7CGWkKIpklWOx9A0fOY2CKOaZGKBqx8AsGXI9v0-dqaUHvpdt8tmV03Py4LLDudcwV_bsvnDqJ0tzW1_5brNAWUGzBHvCXlaxfEsENPp9MPaRaFF3K_yls3l-xtChrLXqmkvn_ero7fchmPV_mB)
+
 ### 🎯 **Acteurs :**
 
 1. **Client** : Un utilisateur du système qui peut réserver une ressource (bureau, salle, matériel) pour une période donnée.
